@@ -2,7 +2,7 @@
 session_start();
 
 $username="admin";
-$password="1234";
+$password="0007";
 
 if($_POST){
 
@@ -30,4 +30,5 @@ Password:<br>
 <input type="password" name="pass"><br><br>
 
 <input type="submit" value="Login">
+
 </form>
